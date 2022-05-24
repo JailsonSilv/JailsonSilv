@@ -1,6 +1,6 @@
 ### Olá, sou Jailson Silva 👋
 
-
+ 
 
 - 🔭 Com o foco em Front-End, No momento faço projetos pessoais para ganhar XP...
 - 🌱 Estudando: React.js / TypeScript...
