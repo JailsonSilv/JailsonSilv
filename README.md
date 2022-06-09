@@ -3,7 +3,7 @@
  ### Sobre mim: 
 
 - 🔭 Com o foco em Front-End, No momento faço projetos pessoais para ganhar XP...
-- 🌱 Estudando: React.js / Javascript...
+- 🌱 Estudando: <img align="center" alt="Jailson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  - <img align="center" alt="Jailson-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 - 📫 Como falar comigo: Linkedlne e Instagram
 - ⚡ Objetivo: Procuro colaborar e crescer no mundo Dev, com o devido reconhecimento.
 
